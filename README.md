@@ -1,11 +1,13 @@
 # Formation multimodale sur les risques internet chez les lycéens: cas de cyber-harcèlement
 ## Introduction
+
 L’émergence des technologies numériques a profondément transformé nos modes
  de vie, mais elle a aussi introduit des risques spécifiques pour les jeunes,
  notamment le cyber-harcèlement, l’exposition à des contenus inappropriés ou la
  divulgation d’informations personnelles. En réponse à l’appel d’offre lancé par l’Afnic,
  notre structure, ‘’NovaParents’’,propose une formation multimodale innovante et
  accessible, destinée aux parents de lycéens.
+ 
  ‘’NovaParents”est une structure spécialisée dans la conception et la mise en œuvre
  de dispositifs pédagogiques novateurs axés sur l’éducation numérique et la
  prévention des risques en ligne. Fondée en 2010, notre équipe regroupe des
@@ -13,16 +15,20 @@ L’émergence des technologies numériques a profondément transformé nos mode
  que des formateurs certifiés dans la sensibilisation aux usages responsable
  d’internet. Notre mission est de renforcer les compétences des parents et des
  éducateurs afin qu’ils deviennent des acteurs clés de la prévention numérique.
+ 
  En collaboration avec des partenaires spécialisés; psychologues experts en
  cyber-harcèlement, développeurs et concepteurs de concepteurs de contenus
  numériques. Nous avons développé des approches pratiques et interactives pour
  répondre aux besoins des familles peu familiarisées avec les outils numériques.
+ 
  Notre proposition s’appuie sur une compréhension approfondie de l’appel d'offre
  lancé par l’Afnic qui vise à créer une formation innovante , accessible et impactante
  pour sensibiliser les parents aux dangers d’internet et leur offrir des outils concrets
  pour prévenir ces risques. nous avons identifié les points suivants dans l’appel
  d’offre:
+ 
  ## Objectifs de la formation
+ 
  1) Identifier les risques d’internet chez les lycéens
  2) Utiliser des stratégies adaptées pour prévenir les risques d’internet chez les
  lycéens
@@ -54,25 +60,28 @@ En réponse à cet appel d’offre et face à la montée inquiétante du cyber-h
  approche multimodale (distanciel et présentiel), interactive et participative, les
  participants développeront des compétences concrètes et durables pour protéger
  leurs enfants contre les risques numériques.
+ 
  ## Public
+ 
  Avant de définir le public visé, il est essentiel de poser les bonnes questions pour
  adapter au mieux la formation aux besoins réels. Ces interrogations visent à
  comprendre les caractéristiques, les attentes, et les contraintes de ce public afin de
  concevoir une approche pertinente et efficace. Ainsi dit , voici quelques questions
  nous nous sommes posés:
+
  1. Qui sont les parents ciblés ?
  2. Quels sont leurs profils socio-économiques et éducatifs ?
  3. Quelle est leur familiarité avec les outils numériques ?
  4. Sont-ils déjà confrontés à des cas de cyber-harcèlement ou à d’autres risques
- numériques?
+ numériques ?
  5. Ressentent-ils un manque de compétences ou d’information pour protéger leurs
  enfants ?
  6. Pourquoi participent-ils à cette formation ?
  7. Quelles préoccupations majeures les poussent à s’interesser aux dangers
- numériques?
+ numériques ?
  8. Quels types de contenus ou d’outils pratiques leur seraient les plus utiles ?
  9. Les barrières culturelles ou linguistiques sont-elles un obstacle à leur
- participation?
+ participation ?
  10. Préfèrent-ils des connaissances générales pour prévenir les risques ou des
  solutions concrètes face à des problèmes déjà identifiés ?
  11. Quelles contraintes logistiques rencontrent-ils ?
@@ -84,7 +93,9 @@ En réponse à cet appel d’offre et face à la montée inquiétante du cyber-h
  déplacements ou la garde d’enfants, afin de pouvoir suivre la formation?
  15. Quels outils ou suivis post-formation peuvent garantir une mise en pratique
  durable des compétences acquises?
+ 
  ## Public visé
+ 
  Public visé : Les parents de lycéens en milieu défavorisé
  
  Nous avons choisi de cibler les parents de lycéens en milieu défavorisé, car ils
@@ -98,7 +109,9 @@ En réponse à cet appel d’offre et face à la montée inquiétante du cyber-h
  Ce choix repose également sur une réalité sociale : les adolescents de ces milieux
  sont particulièrement vulnérables aux risques en ligne, faute de sensibilisation ou de
  cadre éducatif adapté à l’ère numérique.
+ 
  ## Objectifs pédagogiques
+ 
  Objectif 1er jour:
  
  -Définir le concept: cyber-harcèlement.-Distinguer les différents cas de cyber-harcèlement.
@@ -113,7 +126,9 @@ En réponse à cet appel d’offre et face à la montée inquiétante du cyber-h
  responsable, en les aidant à adopter de bonnes pratiques en ligne.
  
  -Détecter les signes de mal-être chez les enfants victimes de cyberharcèlement.
+
  ## Modalités pédagogiques
+
  Approche multimodale: interactive et participative
  1) Distanciel (Matinées) : Classe virtuelle avec vidéoconférence, forums et tests
  interactifs.
@@ -127,11 +142,13 @@ En réponse à cet appel d’offre et face à la montée inquiétante du cyber-h
  nécessitant des interactions directes. Cette alternance réduit la fatigue liée aux
  écrans, stimule l’engagement et renforce les compétences sociales. Elle offre un
  équilibre pédagogique efficace, adapté aux besoins spécifiques de chaque
- activité.C'est pourquoi nous avons opté pour cette organisation
+ activité. C'est pourquoi nous avons opté pour cette organisation.
 
-Régime:--
+## Régime
+ 
  Transmission
  Animation
+ 
  Le choix de ces deux régimes est fondamental pour cette formation, car ils
  permettent d’atteindre les objectifs pédagogiques tout en s’adaptant aux besoins du
  public cible, les parents de lycéens en milieu défavorisé. En effet, Le régime de
@@ -145,6 +162,7 @@ Régime:--
  l'apprentissage plus visuel et engageant, ce qui facilite la compréhension de
  concepts complexes. Par ailleurs, les tests interactifs offrent un suivi personnalisé et
  une évaluation continue de l’acquisition des connaissances.
+ 
  Le régime d'animation quant à lui met l'accent sur l’implication active des parents.
  Ce régime est centré sur des activités pratiques comme les jeux de rôle, les études
  de cas, et les discussions de groupe, afin de rendre l’apprentissage plus concret et
@@ -154,6 +172,7 @@ Régime:--
  expériences et de recevoir un retour instantané sur leur compréhension. Cela leur
  donne un cadre sécurisé et interactif pour appliquer immédiatement ce qu’ils ont
  appris.
+ 
  Le numérique offre une plus-value significative dans ces deux régimes. Non
  seulement il renforce l’accessibilité et la flexibilité de la formation, permettant à des
  parents parfois éloignés du monde numérique de se sentir inclus et soutenus, mais il
@@ -167,10 +186,12 @@ Régime:--
  rendant l'apprentissage plus accessible, plus engageant, et surtout, plus durable
  pour les parents, qui pourront facilement appliquer les stratégies dans leur quotidien
 
- Évaluation des acquis
+ ## Évaluation des acquis
+ 
  1) Avant la formation : Test de diagnostic (évaluer les connaissances initiales).
  2) Pendant la formation : Activités pratiques et tests intermédiaires.
  3) Après la formation : Test final et feedback sur les compétences acquises.
+ 
  Les évaluations de cette formation ont été conçues pour soutenir l’apprentissage
  tout au long du processus. Avant la formation, un test de diagnostic évalue les
  connaissances initiales des participants, permettant d’adapter le contenu à leurs
@@ -179,18 +200,23 @@ Régime:--
  compétences et d'ajuster l’enseignement en temps réel. Après la formation, un test
  final mesure la maîtrise des compétences acquises, tandis qu’un feedback recueille
  les impressions des participants pour améliorer le programme.
+
  Les évaluations sont formatives plutôt que certificatives, car elles visent à soutenir
  l’apprentissage, permettre une progression continue et éviter la pression d’une
  évaluation finale. Cela est particulièrement pertinent pour le public cible, souvent peu
  familier avec les outils numériques.
+
  Le numérique ajoute une grande plus-value en rendant les évaluations accessibles
  et flexibles (via QCM en ligne et forums), en offrant un retour immédiat et
  personnalisé, et en créant un environnement d’apprentissage plus interactif et
  engageant.
- Outils et supports pédagogiques:
+ 
+ ## Outils et supports pédagogiques
+ 
  Les outils pédagogiques que nous avons choisis pour cette formation visent à
  favoriser un apprentissage interactif et concret pour les adultes, en tenant compte de
  leurs besoins et de leur contexte.
+ 
  1. Vidéos pédagogiques et infographies : Utilisées en distanciel, elles expliquent
  des concepts complexes de manière visuelle et accessible. Elles permettent aux
  participants de comprendre les risques numériques et de renforcer la rétention des
@@ -199,18 +225,23 @@ Régime:--
 2. Études de cas et fiches pratiques : Ces outils ancrent la théorie dans des
  situations réelles, permettant aux participants d'appliquer les concepts appris à des
  cas concrets, favorisant une réflexion active.
+ 
  3. Plateforme en ligne pour forums et tests : Offrant un espace d’interaction et de
  suivi des progrès, elle permet un apprentissage collaboratif et un suivi personnalisé.
  Elle complète les sessions en présentiel et soutient l’autonomie des participants.
+ 
  4. Charte parentale co-construite : Créée en fin de formation, elle permet aux
  participants de formaliser des stratégies pratiques et adaptées à leur contexte pour
  prévenir les risques numériques.
+
  5. Fiches de brainstorming et pratiques : Utilisées pour stimuler la réflexion et la
  création de solutions pratiques, elles aident à structurer l’apprentissage et à
  l’appliquer immédiatement dans la vie quotidienne des parents.
  Ces outils facilitent l’apprentissage, encouragent la collaboration et permettent une
  mise en pratique immédiate des connaissances.
- Programme détaillé
+ 
+ ## Programme détaillé
+ 
  Jour 1 (Samedi): Sensibiliser et comprendre
  Régime: transmission, animation
  objectifs pédagogiques:
@@ -287,13 +318,15 @@ Jeu de rôle + feedback individuel (1 heure):Activités à réaliser en
  1) Echange et débat sur l’identification des cas de cyber-harcèlement (40
  minutes)
  2) Feedback individuel: ( 20 minutes)
- 10
+ 
 L'atelier de jeu de rôle et le feedback individuel sont réalisés en direct pour
  maximiser l'engagement des participants, leur permettre d'expérimenter des
  situations concrètes et de recevoir un retour immédiat sur leur participation.
 Table ronde et synthèse de la journée (1 heure):Activités à réaliser en
  synchrone
+ 
  Déroulé de l’activité:
+ 
  1) Le formateur fait un point sur tous les thèmes vu la journée, que ce soit en
  distanciel que en présentiel (30 minutes)
  2) Synthèse et feedback de la journée par les apprenants ( 30 minutes)
@@ -305,7 +338,9 @@ Table ronde et synthèse de la journée (1 heure):Activités à réaliser en
  réel, et le renforcement des connaissances grâce à des exercices pratiques. Elles
  favorisent également l’émulation de groupe et la résolution immédiate des éventuels
  doutes.
+ 
  Jour 2: (Samedi): Prévenir et agir
+ 
  Le deuxième jour de la formation se tiendra une semaine plus tard, afin de permettre
  aux apprenants de consolider leurs connaissances, de maîtriser les concepts
  abordés et d’échanger activement sur le forum permanent.
@@ -316,7 +351,7 @@ Détecter les signes de mal-être chez les enfants victimes de
  Accompagner leurs enfants dans l’utilisation d’Internet de façon sécurisée et
  responsable, en les aidant à adopter de bonnes pratiques en ligne.
  Utiliser des stratégies adaptées afin de prévenir les menaces.
- 11
+ 
 Matin (Distanciel) : 2h
 Vidéo interactive, conférence avec le formateur sur l’identification des signes
  de mal être (20 minutes) Activités à réaliser en autonomie
@@ -350,7 +385,7 @@ Vidéo interactive, conférence avec le formateur sur l’identification des sig
  acquises à leur propre rythme et d'être mieux préparés pour la session synchrone.
  En outre, les forums et quiz en autonomie favorisent une réflexion active et
  permettent de renforcer l'engagement avant l'apprentissage en direct.
- 12
+ 
 Pause déjeuner et Temps de trajet: 11H30- 14H00
  Après-midi (Présentiel) : 4h
 Synthèse du cours distanciel par les apprenants: (15 minutes) Activités à
@@ -364,6 +399,7 @@ Identification des signes de mal-être (1h30):Activités à réaliser en
  repérer des signes de mal-être chez les enfants victimes de cyberharcèlement et de
  discuter des actions appropriées. Le format synchrone favorise une interaction
  directe et l'échange d'idées.
+ 
  1) Étude de cas pratiques (par exemple, un enfant qui se replie sur lui-même
  après une expérience en ligne).
  2) Travail en binôme : Identifier les signes alarmants (ex. : isolement,
@@ -375,7 +411,7 @@ Identification des signes de mal-être (1h30):Activités à réaliser en
  Pause: 15 minutes
 Atelier : collaborer avec les institutions scolaires (1h30):Activités à réaliser
  en synchrone
- 13
+ 
 1) Introduction et sensibilisation (15 min) : Présentation des dispositifs scolaires
  existants (sensibilisation, médiation, etc.). par le formateur ; Discussion :
  partages d’expériences et attentes des parents.
@@ -402,7 +438,7 @@ Clôture : co-construction d’une charte parentale et feedback (1
  heure):Activités à réaliser en synchrone
  1) Brainstorming collectif pour définir des règles adaptées aux familles des
  participants. ( 20 minutes)
- 14
+ 
 Les participants échangeront sur les règles à définir pour leurs enfants concernant
  l'utilisation d'internet et la prévention du cyberharcèlement.
  2) Mise en commun et finalisation d’une charte parentale avec des thèmes
@@ -417,23 +453,32 @@ Les participants échangeront sur les règles à définir pour leurs enfants con
  papiers sensibilisation anti cyber-harcèlement à donner à ses enfants
  Un moment de clôture pour recueillir les impressions des participants sur la
  formation et distribuer des supports de sensibilisation à partager avec leurs enfants.
- 15
-Budget prévisionnel
+ 
+## Budget prévisionnel
+
 Honoraires formateurs : afnic
+ 
  1) Conception pédagogique: 4200 euros ( 2 ingénieures pédagogiques pour la
  conception du programme ; 70h chacune à 30 euros / heure) 2 semaines
+ 
  2) Supports pédagogiques: 150 euros ( Impression des fiches pratiques, guide
  parental, Scénario charte pour 15 participants)
+ 
  3) Vidéo pédagogiques: 500 euros( Création et montage , cryptage de 2
  vidéos spécifiques aux risques numériques)
+ 
  4) Collation pour les pauses: 100 euros ( Café , thé, biscuits pour les 2
  après-midis pour 30 participants)
+ 
  5) Matériel d’animation: 100 euros (Marqueurs, fiches de brainstorming,
  impression des scénarios)
+
  6) Transports: 100 euros ( Frais de déplacement des formateurs)
+ 
  TOTAL: 5150 euros
- 16
-Conclusion
+ 
+## Conclusion
+ 
  À l’issue de ces deux journées, les participants auront acquis une compréhension
  approfondie des enjeux liés au cyber-harcèlement et des stratégies efficaces pour
  aider leurs enfants à y faire face. Ils repartiront avec des outils concrets, tels qu’une
@@ -441,4 +486,4 @@ Conclusion
  signes de mal-être chez leurs enfants. Plus qu’une formation, cette initiative
  représente un véritable engagement collectif pour un environnement numérique
  sécurisé et bienveillant, permettant aux familles de renforcer leur résilience face aux
- défis du monde connecté
+ défis du monde connecté. 
