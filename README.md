@@ -27,7 +27,7 @@ L’émergence des technologies numériques a profondément transformé nos mode
  pour prévenir ces risques. nous avons identifié les points suivants dans l’appel
  d’offre:
  
-## Objectifs de la formation1
+## Objectifs de la formation
  
  1) Identifier les risques d’internet chez les lycéens
  2) Utiliser des stratégies adaptées pour prévenir les risques d’internet chez les
@@ -110,7 +110,7 @@ En réponse à cet appel d’offre et face à la montée inquiétante du cyber-h
  sont particulièrement vulnérables aux risques en ligne, faute de sensibilisation ou de
  cadre éducatif adapté à l’ère numérique.
  
- ## Objectifs pédagogiques
+## Objectifs pédagogiques
  
  Objectif 1er jour:
  
@@ -127,7 +127,7 @@ En réponse à cet appel d’offre et face à la montée inquiétante du cyber-h
  
  -Détecter les signes de mal-être chez les enfants victimes de cyberharcèlement.
 
- ## Modalités pédagogiques
+## Modalités pédagogiques
 
  Approche multimodale: interactive et participative
  1) Distanciel (Matinées) : Classe virtuelle avec vidéoconférence, forums et tests
@@ -186,7 +186,7 @@ En réponse à cet appel d’offre et face à la montée inquiétante du cyber-h
  rendant l'apprentissage plus accessible, plus engageant, et surtout, plus durable
  pour les parents, qui pourront facilement appliquer les stratégies dans leur quotidien
 
- ## Évaluation des acquis
+## Évaluation des acquis
  
  1) Avant la formation : Test de diagnostic (évaluer les connaissances initiales).
  2) Pendant la formation : Activités pratiques et tests intermédiaires.
@@ -211,7 +211,7 @@ En réponse à cet appel d’offre et face à la montée inquiétante du cyber-h
  personnalisé, et en créant un environnement d’apprentissage plus interactif et
  engageant.
  
- ## Outils et supports pédagogiques
+## Outils et supports pédagogiques
  
  Les outils pédagogiques que nous avons choisis pour cette formation visent à
  favoriser un apprentissage interactif et concret pour les adultes, en tenant compte de
@@ -240,7 +240,7 @@ En réponse à cet appel d’offre et face à la montée inquiétante du cyber-h
  Ces outils facilitent l’apprentissage, encouragent la collaboration et permettent une
  mise en pratique immédiate des connaissances.
  
- ## Programme détaillé
+## Programme détaillé
  
  Jour 1 (Samedi): Sensibiliser et comprendre
  Régime: transmission, animation
@@ -454,7 +454,7 @@ Les participants échangeront sur les règles à définir pour leurs enfants con
  Un moment de clôture pour recueillir les impressions des participants sur la
  formation et distribuer des supports de sensibilisation à partager avec leurs enfants.
  
-## Budget prévisionnel
+ ## Budget prévisionnel
 
 Honoraires formateurs : afnic
  
