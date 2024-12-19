@@ -27,7 +27,7 @@ L’émergence des technologies numériques a profondément transformé nos mode
  pour prévenir ces risques. nous avons identifié les points suivants dans l’appel
  d’offre:
  
-## Objectifs de la formation
+## Objectifs de la formation1
  
  1) Identifier les risques d’internet chez les lycéens
  2) Utiliser des stratégies adaptées pour prévenir les risques d’internet chez les
